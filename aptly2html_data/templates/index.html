@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <!-- Compiled and minified CSS -->
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+    <!-- Compiled and minified JavaScript -->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+
+</head>
+<body>
+    <div id="app" class="row">
+        <div class="col s2" style="height: 100%">
+        {% include "partials/sidebar.html" %}
+            <div style="clear: both"></div>
+        </div>
+        <div class="container col s9" id="main-content">
+        {% if welcome_msg %}
+            <div class="container" v-if="current=='install'">
+                {{ welcome_msg }}
+            </div>
+            <div class="container" v-else>
+                <table class="bordered striped">
+                    <tbody>
+                    <template v-for="pkg in current_package()">
+                        <tr><td>
+                        <div class="row">
+                            <div class="col s8">[[ pkg.Filename ]]</div>
+                            <div class="col s4">[[ pkg.Version ]] </div>
+                            <div class="col s12"><pre style="background-color: cornsilk;border: thin solid black">[[ pkg.Description ]]</pre>
+                            INSTALL: <i>apt-get install [[ pkg.Package ]]=[[ pkg.Version ]]</i></div></div>
+                        </div></td></tr>
+                    </template>
+                    </tbody>
+
+                </table>
+            </div>
+        {% else %}
+            <div class="container" >
+                <table class="bordered striped">
+                    <tbody>
+                    <template v-for="pkg in current_package()">
+                        <tr><td>
+                        <div class="row">
+                            <div class="col s8">[[ pkg.Filename ]]</div>
+                            <div class="col s4">[[ pkg.Version ]] </div>
+                            <div class="col s12"><pre style="background-color: cornsilk;border: thin solid black">[[ pkg.Description ]]</pre>
+                            INSTALL: <i>apt-get install [[ pkg.Package ]]=[[pkg.Version.trim() ]]</i></div>
+                        </div></td></tr>
+                    </template>
+                    </tbody>
+
+                </table>
+        </div>
+        {% endif %}
+    </div>
+    {% include "my_script.html" %}
+</body>
+</html>

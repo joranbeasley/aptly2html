@@ -1,0 +1,25 @@
+<script>
+    var app = new Vue({
+      el: '#app',
+      delimiters:["[[","]]"],
+        methods:{
+          'packages':function(){return this.raw_json['provides']},
+            'current_package':function(){
+                console.log("FETCH:",this.current)
+                console.log(this.raw_json)
+                return this.raw_json.data[this.current]
+            },
+
+        },
+    {% if not welcome_msg %}
+       created: function () {
+        // `this` points to the vm instance
+        this.current=this.packages()[0]
+      },
+    {% endif %}
+      data: {
+        current:"install",
+        raw_json: {{ raw_json }}
+      }
+    })
+</script>

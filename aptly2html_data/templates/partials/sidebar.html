@@ -1,0 +1,11 @@
+<ul id="nav-mobile" class="side-nav fixed" style="transform: translateX(0%);">
+
+    {% if welcome_msg %}<li class="bold"><a href="#" v-on:click="current='install'" class="waves-effect waves-teal">Installing The Repo</a></li>{% endif %}
+    <li class="no-padding">
+     <strong class="collapsible-header  waves-effect">Packages</strong>
+{#          <div class="collapsible-body expanded">#}
+              {% include "fragments/repo_list.html" %}
+{#          </div>#}
+
+    </li>
+ </ul>
