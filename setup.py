@@ -13,5 +13,8 @@ setup(
     license='MIT',
     author='Joran Beasley',
     author_email='',
+    package_data={
+   'aptly2html_data': ['templates/**/*.html'],     # All files from templates folder
+   },
     description='convert aptly package list into a static single html webpage'
 )
