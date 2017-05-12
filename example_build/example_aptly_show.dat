@@ -884,8 +884,7 @@ Size: 8451446
 MD5sum: 218b1ebf31619779fec78b859d3f009d
 SHA1: 67abc0bc79255cadeb172d7b8c50e099121a4c85
 SHA256: 53ff73980954b8d16733cfeeca2370ffa4e99f767b31fc0a99089e789f4a96af
-Description: Decagon neato
- Decagon Devices, Inc. Decagon neato
+Description: neato
  testing - b5fa6af4dd6d9e24e7ac21ea85a09808fa7d4f1f
  joranbeasley@gmail.com
  2.5.32.hotfix2.52.gb5fa6af
@@ -962,8 +961,7 @@ Size: 8379204
 MD5sum: 2c6804df5a9c67b30e026a02070fc0ac
 SHA1: da7122a3597d9640a76b029e7fc09d01c43b674c
 SHA256: b0e9cd3e53365ea811b318de5b107c25cd3956bd6d06710b5d35c795a39223b0
-Description: Decagon neato
- Decagon Devices, Inc. Decagon neato
+Description: neato
  feature-better-ci-runner - 96fefd3be4286450531d2fc358123f2facb7a773
  joranbeasley@gmail.com
  2.4.30.18.g96fefd3
