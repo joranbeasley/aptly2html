@@ -17,7 +17,7 @@ we now have everything we need to build our html page
 
 and we have now generated an example single page application [`example_output_site.html`](./example_output.html)
 
-###[View Generated Site](https://joranbeasley.github.io/aptly2html/example_build/example_output.html)
+### [View Generated Site](https://joranbeasley.github.io/aptly2html/example_build/example_output.html)
 
 of coarse we could have done this with a direct pipe as well
 
