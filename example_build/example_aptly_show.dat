@@ -1,0 +1,1446 @@
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.96
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.96_all.deb
+Size: 2014278
+MD5sum: a9feed9fff0bf84f6b4cff0c91bce2ec
+SHA1: 8a33c3ed78087b9448297736731065591dd30498
+SHA256: 695bca5f80fbd0fb5fca0aeec22c05398594b4dca723afd698ac706d3420a28e
+Description: AwesomeDeb
+ feature-test0 - 42ad76e42ada3efe2b636ac5edd1d0383820162b
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.96
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.48
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.48_all.deb
+Size: 2011876
+MD5sum: 119bafdf6f77678c5844217b6661253b
+SHA1: 944d025ee29a5dc4cb727c80ba9ba9c1faac8d37
+SHA256: de1cf0a342747ba548b41dd6c301ef35bcf9f7994039e486e10c2db18dc6b7bc
+Description: AwesomeDeb
+ feature-ixwerks-screen-cleanup - b7780f0f637fd32be7657157885d3e8b0bc6836f
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.48
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.87
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.87_all.deb
+Size: 2011598
+MD5sum: 0851141ce74f1960b9d3d03b83e90161
+SHA1: 5a701002178459f2be6f505dcfac9484c2abd510
+SHA256: 1a87136b113bf1ec876f6dba18dc487772276fc1324ea1936722dfb21045ad1d
+Description: Cool Package
+ master - 4e45b709906ad93aa5fdd36cc3a1e09ab605f6e6
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.87
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6964
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.15
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.15_all.deb
+Size: 1857270
+MD5sum: 06ddff7c573eba164ef407d2765ee065
+SHA1: 324a7c5486d582573ea6c3db9842fe06f9dab8e4
+SHA256: 94ff496972cba6550b1a5984e14dba35839cb0374c6638d715a8af5b6f554f9e
+Description: Cool Package
+ feature-new-splash-screens - 33718b883e96f8e28b52231c84f7664195221b83
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.15
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.75
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.75_all.deb
+Size: 2012356
+MD5sum: c4c9ddff4b3a49224d9f8f2291ef20e4
+SHA1: 569525ac6c88bf91f804124fd493d0573537076c
+SHA256: 050006b8676293e8ccf61d24e41303a76d92cad461a183fb0438b3b7b494c02c
+Description: Cool Package
+ feature-mesa2-ui - c4a434a432ffb1166c12aba35f707589585c4cc9
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.75
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 4828
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386_all.deb
+Size: 1494380
+MD5sum: 2263bd32b7fa9865d28176e299e4c9c8
+SHA1: 2ec55fc81137ac8b341ca1d7ed9c4b5c7b02a387
+SHA256: 13977350a872e7a3fffa2d58e086fcb7b707f1fe25ebdc30fbdb5b112e273205
+Description: Cool Package
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.34
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.34_all.deb
+Size: 2007122
+MD5sum: 7ee1b6841c57be314c7f7065ce0138c0
+SHA1: 9a6aec8f64173d69f84e73195563cb2f10bc9202
+SHA256: 2e76838fd92110e38a714403cfdad02d97ac1f252a569da81e5a3ab400f652f5
+Description: Cool Package
+ feature-barcode-scanner - ae0132d6cb921beb1b47196cc41c9fc7b2d9e5ab
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.34
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.47
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.47_all.deb
+Size: 2011914
+MD5sum: 7d51573ea745a4e25afa04ddc96298dd
+SHA1: fb449c46f1ec3b54313f8d5cd5a12a4a5a1c0583
+SHA256: 252fb3aa1fee5348ff6ff78c27a5ffda3c24c429296395cdd7e3fc38190d1895
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 5fed4f5a78039b7d5d651da7c2e7b4993bf26ccf
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.47
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7192
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.27
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.27_all.deb
+Size: 2006018
+MD5sum: e54ed74ff5af3ea4af716a3429d905c0
+SHA1: 01e3b0c176c0c022a9a2b7805785cdab9ab71dfb
+SHA256: 69d7593ece3a0fceded537e817d4a8428ec87f2467101e1f4a012a8911aeb5f5
+Description: Cool Package
+ feature-asset-integration - 919154824d68ce05603e2348414fb3b5b8e462a0
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.27
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7248
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.115
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.115_all.deb
+Size: 2015914
+MD5sum: 643c17fb864d90fb11ff862f99522f0c
+SHA1: 59a249ab39ee5d90820a97da09bacd85540c2267
+SHA256: 542de12d57137a769d794f05e7b0c1e5bfa8ff72bf892e7237cce4dd9c69bec4
+Description: Cool Package
+ feature-mesa2-ui - b4394d9630bbcbfba785164be5892a3fe4fd3055
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.115
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.39
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.39_all.deb
+Size: 2011576
+MD5sum: f59fcc8c9ad9ec9895bde24b8153d883
+SHA1: 2a5326c40c70d6c8db65319d2f086ddca4ea3987
+SHA256: f7bb5310e7a4f19437c900fd28bc01acac2b33bcc2131f445b8c41b84d532e12
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 821d283463462b70a1358e67bc35258b09c94943
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.39
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.68
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.68_all.deb
+Size: 2011524
+MD5sum: cb3721860e915deb6f6a3aa222e9a8ba
+SHA1: d21152b1c8dd84fffc0cbfff248a1e4680bce707
+SHA256: 85ef833aeb9b093af9f0125a3d46e587a57ab89589e53b4ac3043a6d986cda85
+Description: 
+ master - d397938008b7333b184bd55161c9a1d35a884988
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.68
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7172
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.21
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.21_all.deb
+Size: 1999058
+MD5sum: d3a56a71ab8e71dd575772b9bed7af02
+SHA1: 87a0123d99b0820bbc97ca7b3d48c2758aa3e73c
+SHA256: d2c7d76856f643fd4cff6e08c2154ad9479572d8f56d4921df16c78b9e6b8f36
+Description: Cool Package
+ feature-asset-integration - fa34cf1e42b7f4074977279c6772a3f59bd614b2
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.21
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.40
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.40_all.deb
+Size: 2012352
+MD5sum: e096f38a23052d71a35afceea057d928
+SHA1: 9091a2df1b45b46602855194c2ccc6924b5c8d6d
+SHA256: b2abb56c439aad4936e71dc9de632ca6c367b06785b64466bea12d2e260b5f10
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 11f62daf449cb5c5c76a602c0eb6efac5f3c7b26
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.40
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7192
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.28
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.28_all.deb
+Size: 2006614
+MD5sum: a6b819f756fe78c255a83ed7c22354bb
+SHA1: 3f489fc21cb7f8073f9b551c5a7d0f595dd56e3b
+SHA256: bab92401e11c78731078f83278a5e46a837db0344ea368c1d797906032b403ba
+Description: Cool Package
+ master - b1e9e35b067f14abf401ae3f79a443844b5f19d0
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.28
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.31
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.31_all.deb
+Size: 2005900
+MD5sum: 241f489c69f3b7d145c11b9fa500f002
+SHA1: 5edf6e3674a8aad851ebd5bd37affc738330b6a3
+SHA256: 95e2596c9dcc3d57738824789f2fe0b538ceac886cbfc2f29160a35a809d36bc
+Description: Cool Package
+ feature-improved_batches_refresh - 3d0e9d295971b118fa49f7775e3c91467ca5a648
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.31
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6936
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386.146
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386.146_all.deb
+Size: 1844546
+MD5sum: ed26d702a740998617b3b72f6abbe2f0
+SHA1: d1e6ed08dc2b78aada1b1e5b74df086de7dcf99e
+SHA256: 0c1c6a62702aefc9b0d635a3d7a7fedeff0a19ce52ff9224140e39462c4578da
+Description: Cool Package
+ fix-aq1-2point-cal - 705e7ccb61ae6223b3f43f0d881dc07a58fe200c
+ joranbeasley@gmail.com
+ 1.0.386.146
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7244
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.82
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.82_all.deb
+Size: 2012154
+MD5sum: db424b8fa1c94f8ce8f1378ec88ee6b2
+SHA1: 47963cfca9fada87370667713da69769fc4cd8e7
+SHA256: 98e5674497138abf8c9bf256827bbaa8406f9ad0172b8a3c9afeba9616b0b91e
+Description: Cool Package
+ feature-mesa2-ui - f124d312ad2c199b4f5ff478c484cddd274cbd49
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.82
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7192
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.29
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.29_all.deb
+Size: 2007056
+MD5sum: 1e5e316f7593e36f933788122720d36f
+SHA1: 331a4a4a1f9dcb7da0faef0bf4b8be3d84ffcf56
+SHA256: 9b6f8bee12bb855050aaec3a86049b5dbca87ceebcbe4c0208d16b8e77420e01
+Description: Cool Package
+ feature-instrument_code_additions - 1a71af1be7234c4ea35e8236b8e56f0454c6a264
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.29
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.77
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.77_all.deb
+Size: 2012198
+MD5sum: f09b7f65eed82403a1f5ab6f02864c20
+SHA1: 5fd19e37c297398b51af581b9a5adf084f9ac172
+SHA256: 7b494e6987aa5299d3f05df7434ca68aad33ccbcaa306e6d9ea67cea8e097e42
+Description: Cool Package
+ feature-mesa2-ui - 64554dd27195d84a7a967f2148274bd0afac129e
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.77
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6944
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386.93
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386.93_all.deb
+Size: 1844286
+MD5sum: a8b6d0475db314d8848b81f17704898b
+SHA1: fade924ff0ef1b41d7dd18415c6ffaa56b41a84e
+SHA256: 2beb13303ea81c8ffdcfcbc254d38152918f3bd04b1d6c67536eaf5d6b61738f
+Description: Cool Package
+ testing-testcases - 0be5f1bfef9ae52c5727ab8d1bb846f9c5803ce8
+ joranbeasley@gmail.com
+ 1.0.386.93
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.84
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.84_all.deb
+Size: 2012918
+MD5sum: 2a6cff0344b40e27e651e3f2c6b06ffd
+SHA1: d17d15bebdd0bef39692ce8acb51fe0031b0e46f
+SHA256: 22f0698320c30fc3851d39de55b0ccffe3d4c41738093b8e32b126d407f43f8f
+Description: Cool Package
+ feature-client_less_communication - 17a9d8901b78d277f030118b244319368314423a
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.84
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6936
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386.145
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386.145_all.deb
+Size: 1843210
+MD5sum: 501ec30622f97b69ff28b3cdaf4b8d5f
+SHA1: 28bb773753a16d82bc9679e0514edee723f4d6c5
+SHA256: e3004f680d8ef6e41c81393ea2d588a91b70242c74d83242712802e9556777cb
+Description: Cool Package
+ fix-aq1-2point-cal - 14330aa57670b097145680cec37866598d27b514
+ joranbeasley@gmail.com
+ 1.0.386.145
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.33
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.33_all.deb
+Size: 2006888
+MD5sum: 454c78202d70927697ee8d526fc1d89f
+SHA1: 3d0fdf88dafd650fafa3eb9f93bbd382d54c53fe
+SHA256: fd36b2e08d3dc288252326b7b2f95b0316dd478b15b0a6025f69afe24786f0bc
+Description: Cool Package
+ feature-improved_batches_refresh - ab0df7318366c21ccf160cfd62668f13c47b7435
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.33
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.79
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.79_all.deb
+Size: 2012110
+MD5sum: b2ddc76d6af92bf029711ef627a10bba
+SHA1: 544596979009a73c50449f1be46f6baf00c433fe
+SHA256: 15c0beee7e0dc0a7c8253a44a6df0cc1cd2142fea36a92883513643ebd8b44ce
+Description: Cool Package
+ feature-mesa2-ui - 52014ef102bfde547222a1f166257c280aa10043
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.79
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7172
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.22
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.22_all.deb
+Size: 1998692
+MD5sum: b4d106d305709ed6ff656e85455a8d0b
+SHA1: 7932b4354ede3771e820222533429ad38226be4b
+SHA256: 11267954993481c25e7c85186341bc934ca92920307f446c0b8d241f6e7c2c7b
+Description: Cool Package
+ feature-asset-integration - 1390266a7b2ecd453a7fc17fff18d61c381cc7a8
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.22
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.91
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.91_all.deb
+Size: 2012898
+MD5sum: 1908f0ff30dfea7c8927551986949a7f
+SHA1: bb7d22cfd880057e2102b5f83d3b6dbda16cb82b
+SHA256: 08535267923cfbc3fbac1cce005820eef8c500eaee2fe4a57bd3e099fe21f8f9
+Description: Cool Package
+ feature-client_less_communication - 8132519603ab870c024ecee508953eed565f031b
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.91
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.78
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.78_all.deb
+Size: 2011390
+MD5sum: 3020de0da0225f8a36b81704e8644825
+SHA1: ef0165598440f63dac05941e2f7f58fb26b6e25c
+SHA256: 8d55f97fb5791c9fec727df99b44ad1ff0374163833b8a847f5be8321374f2d7
+Description: Cool Package
+ feature-mesa2-ui - 5677b86e79d30ef1acf0b9e5ca0fb3c2757e0713
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.78
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7212
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.37
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.37_all.deb
+Size: 2010950
+MD5sum: efccf5a0f75f3a943df04febecfb60a2
+SHA1: cddfc5c7750c7a4ce0e4d0201f93ed60b665eee1
+SHA256: b004860f4788eb7d9b94dfcb998fb216d7ab33d1b80436fc9a61d96f93a7d6b3
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 0a3cddf96556b5f829ccf93e1812bfc95dd616cf
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.37
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7244
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.81
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.81_all.deb
+Size: 2014190
+MD5sum: bdba68deedb1776319a655a026b6bab9
+SHA1: 3504f5324bf0dc99b600817a0df66aac0a7b0004
+SHA256: f945d668ea38df11f4d1bd402d9bb15094a7412808f297f522c11c70061cb862
+Description: Cool Package
+ feature-mesa2-ui - 355cecdd8b3422faaf504346657c384ed39b5102
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.81
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.38
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.38_all.deb
+Size: 2011234
+MD5sum: f231293b7b0b36a653be038c889bc577
+SHA1: af4b140d1ff4883654b4d22007b8c027e229af1e
+SHA256: 1bcf51c25038ce278324664bb9babd0c3f28ff278af071bd740a33e69374946d
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 212cc6bea96e5cde0fadec916b7ecef7ac7ef467
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.38
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7244
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.83
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.83_all.deb
+Size: 2014638
+MD5sum: e69359776fd579c6e462aa9a3bacf153
+SHA1: a9646fe1b81c0922f5102735f0d5d644c0f45822
+SHA256: 0b0d133dc54f126ac5ebba0fb9701b63bf5e01331f115b6d2561b5326bc44693
+Description: Cool Package
+ feature-mesa2-ui - 4b03c7d3b6a5d7333403f8e20d2defe26e279e56
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.83
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.67
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.67_all.deb
+Size: 2011252
+MD5sum: f5b7fc23038a3ca3b8647c4de8f7c1b2
+SHA1: 044fc686359f4690478055a82b621c180ffed5c3
+SHA256: 28411ee97a9af929322e2aba5ffd71e16bba6f1fe7ef84e07040a39c31e12a89
+Description: Cool Package
+ master-merged - c3b107ca62a3f43486086a88d4c64063bbe45308
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.67
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.100
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.100_all.deb
+Size: 2013400
+MD5sum: fb366b79e44cb40b0c110eeaaf5d2ed8
+SHA1: 273bbaf9dd7791f21a067b84032d807cb31f185a
+SHA256: 466eae326a3f85f48a07b5295eb1b231a88913418aaa6ff30346fe2d1e75f33d
+Description: Cool Package
+ testing - 5c51fcd9d645ffc79b148094238abc6109bd96ae
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.100
+
+Package: neato
+Priority: optional
+Section: python
+Installed-Size: 29612
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 2.5.32.hotfix2.50.gd0c370d
+Provides: python2.7-neato
+Depends: python (>= 2.7.1-0ubuntu2), memcached, apache2, libapache2-mod-wsgi, subversion, rabbitmq-server, openvpn, python-dev, libmemcached-dev, lm-sensors, cifs-utils, ldap-utils, libldap2-dev
+Filename: plantpoint_2.5.32.hotfix2.50.gd0c370d_all.deb
+Size: 8451364
+MD5sum: 6ffeda937e75a4469688504f6075c476
+SHA1: c70c955acf77132d3dd2348dc53f9ae9ea7212cd
+SHA256: b863476abf0e07de15daa6be7b7776e3ce221a3b42b778bd9c2430c8ba49bc7e
+Description: neato
+ testing - d0c370d5463169a72cb9321ff7d4351a08e12f3f
+ joranbeasley@gmail.com
+ 2.5.32.hotfix2.50.gd0c370d
+ DATE:Thu May 11 23:08:23 UTC 2017
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.73
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.73_all.deb
+Size: 2011804
+MD5sum: 73adfc29d29c4d4b2897696e0d6ddd7c
+SHA1: 01bdaee461a010d57745bcef9518004241b3ca9e
+SHA256: cb2efef66c5e421edb8c3c945a8c218f63a5053a13e96031321efcb26ebde205
+Description: Cool Package
+ feature-mesa2-ui - 0e6253cad18609ec5278f3fc17f9ec6fb74a1767
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.73
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.46
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.46_all.deb
+Size: 2012906
+MD5sum: f79f584c6fe1d5eaf756c7e1fae81bbd
+SHA1: 66f3a57f47eb9a280b38801ac2591e47995b8360
+SHA256: 4fa28b55712dff7c8ccf7dc4a3547edb1a36f15f190b6f1f5000fdea32b25856
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 2612ffa01de37b481dcfe3f0c7d2b395ab1bd09c
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.46
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7244
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.80
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.80_all.deb
+Size: 2012858
+MD5sum: eae0184462ded525687cd7f7112f7c81
+SHA1: b7872c167156d3c962fd6a0a0ebbba0a9e9f2380
+SHA256: 360dabce590fdf3d2cb7fda0cfd4075075aa7ef5bf649ca652afe99d0d9c862b
+Description: Cool Package
+ feature-mesa2-ui - de4bf1352005992f163772259a485e91d554736a
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.80
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.35
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.35_all.deb
+Size: 2008364
+MD5sum: ae34936f65271389f9701429df5789ee
+SHA1: c96a9a327bf2ea2fca6ad12a3297c49c6be528f6
+SHA256: f27482229d12ca1dbb1fe6603932279b2ec798b54bdaff3186699da8b352b68d
+Description: Cool Package
+ feature-client_less_communication - 068451cb079de06da8187931205caeb4c93208eb
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.35
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6936
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386.148
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386.148_all.deb
+Size: 1845226
+MD5sum: e0bae7afa532cc67ec0b97dbd3ce6c71
+SHA1: 06b2bddd1d2b711139c5fdf64d913b528f06dcd0
+SHA256: fe87c67067d3a8fa3c89ec5e3145c7abeafec30966c5a70da578d04ff1170b3f
+Description: Cool Package
+ hotfix-cancel-apply-cal-aq1 - 0390b611414756629c079b67858b30be9deaebec
+ joranbeasley@gmail.com
+ 1.0.386.148
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.49
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.49_all.deb
+Size: 2011614
+MD5sum: c41abfcb2f146e60b9076e072c102114
+SHA1: 027aa9e693f3192196519ba3a74e212eabab563a
+SHA256: 88bcfd4e4052c822ce5c1f76f1debecf28f98c4a72cafdecfce8a6a6b29255dc
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 600f9fa18d74ac432bf7f79cb9354ce8bfc4508e
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.49
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.50
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.50_all.deb
+Size: 2012062
+MD5sum: 90cfdf6b7495ecb2fefaff4304c8731b
+SHA1: ebae7173d0505a8d61a3e7220ee77b819658c1c9
+SHA256: b0701e3c4565698413530024855d61865a71eeb4bf420cf0341ec4a8f44ee625
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 5379b396d9fa14159f5284b7aec5335e5b63148d
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.50
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.85
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.85_all.deb
+Size: 2014792
+MD5sum: 27adc38364059b1f4a7088f3cfcd9c62
+SHA1: adff60d9143e739958b7262197d97f163de6e092
+SHA256: 4c27942e75d42ace5ae73f89746901a48638deee188ff08c095968d77ed892f0
+Description: Cool Package
+ feature-client_less_communication - 2bc91b2a1b61f5e7c71ca884cbb0f2a6659f3f80
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.85
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7248
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.116
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.116_all.deb
+Size: 2015148
+MD5sum: 36a3f13de5482416452a90cf66c5ed6c
+SHA1: f0d9ba1a4043a8f21c4c825996aea115350483e6
+SHA256: 87ebcd4715a5753c116379e6fc29ebdacee3578da341a71be22346ecf8f59894
+Description: Cool Package
+ master - 15b85acc7a9462a2af73a90a1c3864751de2c6ba
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.116
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7192
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.26
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.26_all.deb
+Size: 2006966
+MD5sum: b1e78587affac4270ecaff55c30d0b8d
+SHA1: ab1a2b6ce1a896ddf88ccdf96ace65c2d6020b42
+SHA256: 272fb70baa7d3a5fd4c4cace6be0179cb0ec8354c333a1397f6a25c07de3b3a3
+Description: Cool Package
+ feature-asset-integration - 8e4ef29265122ccd24df8166e72307ff23efe70a
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.26
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6964
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.16
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.16_all.deb
+Size: 1857320
+MD5sum: 3e0650acce402aa88c6d9dbb7c67b1f9
+SHA1: 0c727c57fa268c6603532f6e3455126c0a1e322d
+SHA256: 17445fa5e03c3cebf9e6b6d2f84951b188409a4c086e1a5872269b82450da6fc
+Description: Cool Package
+ feature-new-splash-screens - 0d315fd946c5b563aa4baf7d24f67aa1028a6065
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.16
+
+Package: neato
+Priority: optional
+Section: python
+Installed-Size: 29612
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 2.5.32.hotfix2.52.gb5fa6af
+Provides: python2.7-neato
+Depends: python (>= 2.7.1-0ubuntu2), memcached, apache2, libapache2-mod-wsgi, subversion, rabbitmq-server, openvpn, python-dev, libmemcached-dev, lm-sensors, cifs-utils, ldap-utils, libldap2-dev
+Filename: plantpoint_2.5.32.hotfix2.52.gb5fa6af_all.deb
+Size: 8451446
+MD5sum: 218b1ebf31619779fec78b859d3f009d
+SHA1: 67abc0bc79255cadeb172d7b8c50e099121a4c85
+SHA256: 53ff73980954b8d16733cfeeca2370ffa4e99f767b31fc0a99089e789f4a96af
+Description: Decagon neato
+ Decagon Devices, Inc. Decagon neato
+ testing - b5fa6af4dd6d9e24e7ac21ea85a09808fa7d4f1f
+ joranbeasley@gmail.com
+ 2.5.32.hotfix2.52.gb5fa6af
+ DATE:Thu May 11 23:10:37 UTC 2017
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.98
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.98_all.deb
+Size: 2012804
+MD5sum: e954ddcd5dab27b21205d589965f461f
+SHA1: 58ea933212227e7520eea42f40b76d22156cca7a
+SHA256: 08252349f798076b032b34fb2652016e657ed7766ba590d60efdf13dc84e6a02
+Description: Cool Package
+ testing - 87534d750d868607301df19beb0d6031a798c09d
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.98
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.76
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.76_all.deb
+Size: 2013058
+MD5sum: 611009d21ceb110dded94cd3018b2812
+SHA1: 2362516a1617adff0b21e9623862526d77b56115
+SHA256: 4a4cefbd4b52d2a8daf5bd680383521a14a8216a45734216514bde8c880a23bf
+Description: Cool Package
+ feature-mesa2-ui - 2720bdf78aaa8010848636367b8e18dd7a24a4e6
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.76
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.92
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.92_all.deb
+Size: 2014626
+MD5sum: 602ba50eb6474770ae06c6db86d4f38a
+SHA1: 0280bae211f4d3f9d8f1e68095d0ec631bb13161
+SHA256: d0ac319cf4565835e1792640564c53b5464c48479419c0446b6b1623bf6b786f
+Description: Cool Package
+ feature-client_less_communication - 35706f919ab441639e5b214f52ab72bf90cc2d17
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.92
+
+Package: neato
+Priority: optional
+Section: python
+Installed-Size: 29016
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 2.4.30.18.g96fefd3
+Provides: python2.7-neato
+Depends: python (>= 2.7.1-0ubuntu2), memcached, apache2, libapache2-mod-wsgi, subversion, rabbitmq-server, openvpn, python-dev, libmemcached-dev, lm-sensors, cifs-utils, ldap-utils, libldap2-dev
+Filename: plantpoint_2.4.30.18.g96fefd3_all.deb
+Size: 8379204
+MD5sum: 2c6804df5a9c67b30e026a02070fc0ac
+SHA1: da7122a3597d9640a76b029e7fc09d01c43b674c
+SHA256: b0e9cd3e53365ea811b318de5b107c25cd3956bd6d06710b5d35c795a39223b0
+Description: Decagon neato
+ Decagon Devices, Inc. Decagon neato
+ feature-better-ci-runner - 96fefd3be4286450531d2fc358123f2facb7a773
+ joranbeasley@gmail.com
+ 2.4.30.18.g96fefd3
+ DATE:Thu May 11 20:13:25 UTC 2017
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.94
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.94_all.deb
+Size: 2014760
+MD5sum: b727f3e027a07dfebeac88a66f4f668e
+SHA1: 9e3a048f124ba809e97dd747e9cd5ec196e58214
+SHA256: dcedf5657da2f192ac67931554697bd2c2efe3cc513cef93933687c54c931117
+Description: Cool Package
+ feature-client_less_communication - e172a1727da00ab59638a23c11be8f8af807903a
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.94
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.95
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.95_all.deb
+Size: 2013934
+MD5sum: 45ae724a40bbbbd8e7dd1999baacc4d9
+SHA1: 7d663e4a269f27b070a52af080c43952075319fa
+SHA256: e2ce0d33dfbcb88345a13ece670faf24b4fe652797e75a5a8252af921f3971af
+Description: Cool Package
+ feature-client_less_communication - 44547d4410e96cd12301b7fb18919547e8e67114
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.95
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.72
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.72_all.deb
+Size: 2013864
+MD5sum: a5e0633eef736ee381ed50f27460aeb3
+SHA1: d2c678c3c4c877910702ac751679d0238b6efc9a
+SHA256: 36d2bef4fd0a04d756bbf019ccfbb20b83b0c3123b618a252b899dda51c08845
+Description: Cool Package
+ master - 0318bd53fc29ff9c6ddf072e964dfb7cde999c78
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.72
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6944
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.14
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.14_all.deb
+Size: 1848506
+MD5sum: cf4b22214ffe7771a10fdbdff1b47a71
+SHA1: 7a30c14c0a9bd60d7b9dee7a28c8552af28e8d61
+SHA256: 97550938c5eb07920b5cb34898775086d74f5f5b664d6e7b41229907f6b389cf
+Description: Cool Package
+ master - 4366f8a5be8969b7422091d7a62bbd74dc44b7f4
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.14
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7168
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.20
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.20_all.deb
+Size: 1997772
+MD5sum: 11dc1ac652c88c0915a907fa2192c34c
+SHA1: 0cd4a897f2b0a6f396280531eab6318cd0975e8c
+SHA256: e01373356f87621c26a394c81198717d833ee130229f5a33fbf2c381e2aedac4
+Description: Cool Package
+ feature-asset-integration - f2cb62c5f648358098e5c06c9ff90053fd8fc049
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.20
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6944
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386.95
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386.95_all.deb
+Size: 1845006
+MD5sum: 62869d5c04a606b3d75b74205ca8a5b3
+SHA1: 48c1949dc79024832e2a1c686f431d03b3f28990
+SHA256: 806e3859eb8e2424090c1a07dec95eca5acbbcbd41d3f829db1c47cb68774c7b
+Description: Cool Package
+ testing-testcases - 5d018f0c89ee6ec1e617cc6bb4a37d081ab83dca
+ joranbeasley@gmail.com
+ 1.0.386.95
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.71
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.71_all.deb
+Size: 2011622
+MD5sum: 4d6d4306e6cc38b6058afc57d42858cc
+SHA1: 2ffbb6c573599e9242a632a18f878b00cdf021d7
+SHA256: e661096e007e7103ea987fd67946235d833263cc6bfad5b522466c5855e28f34
+Description: Cool Package
+ feature-mesa2-ui - bbd8828127a9149394b7714f99aa87470fbbb815
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.71
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7188
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.25
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.25_all.deb
+Size: 2001190
+MD5sum: 6c0d1baadf0c1113080931ae24722b30
+SHA1: bafd16d376255aba10626988ecea36fa7d60152f
+SHA256: 772b6851d29b9ccc4b7c16ace2e416eb6d8ff970d387dd471b14b9ff36ff1924
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - e1d8c6ffbb73348ec4b193b7bd859a3556f002be
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.25
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.69
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.69_all.deb
+Size: 2012160
+MD5sum: 0ecb41414bad35132d40fcb4a77517c8
+SHA1: 77d244d01633200b55ad4f7160c22a540d61c675
+SHA256: e0caf8964cc69e8f0eddd38a4c7afc4db938befb3a002a09b41efe3a89fb7894
+Description: Cool Package
+ feature-mesa2-ui - 9051248bd6798623d61ef43acd5000abaf726a20
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.69
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6944
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386.94
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386.94_all.deb
+Size: 1844342
+MD5sum: bb7d16cac9bb2bacb7ccb4957ad38fba
+SHA1: 49e2d64b28e64cb3f9f171cacbe57bc89524fc26
+SHA256: d658ed0f866bc9ad4ee10bbd85756ae0d23e039721490ff3f53385ef31cd2095
+Description: Cool Package
+ testing-testcases - ce1eed5ed9c1db7c3a38c7809de7612dad3de8ff
+ joranbeasley@gmail.com
+ 1.0.386.94
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7192
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.30
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.30_all.deb
+Size: 2007674
+MD5sum: 61429e7f82bc0a605641f320cb53adf2
+SHA1: 79d47129c627b544b3845b3312e5a43351c8988f
+SHA256: bdfd01da54060412309b3d178444fbbb2e8acda0b71eb166a842a26d0f7a8394
+Description: Cool Package
+ master - 594cdbb4ce5e318df9d82e821d8b47d909b0fe2c
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.30
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.99
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.99_all.deb
+Size: 2012676
+MD5sum: 145cd3e3f2bd2ebe9e690134816494e2
+SHA1: 54e6973ec8a188544600f372857c07e7273007b2
+SHA256: c74767dd182a2c5c6bc54e507922aabf2eb80d70e689b5ec42e46dfe83999bd6
+Description: Cool Package
+ hotfix-aq1-reading-started - 5174e4afd4737029f5f16d278782568ee59ab629
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.99
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.45
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.45_all.deb
+Size: 2008776
+MD5sum: 65f4e8e3f3399874adddd898c60736c7
+SHA1: 1a3a8e1193a5b9a7b27c48dbca2aecd4432cd10b
+SHA256: 1623ae19002ab008081bad435b9f7b8867c3680e99775f1bbfce2aac3707f6f7
+Description: Cool Package
+ feature-client_less_communication - 10169ef5bb4e3b0d2eeb26001e398ad9d4045412
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.45
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6936
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386.149
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386.149_all.deb
+Size: 1843900
+MD5sum: 70ba7b1f6f1190db8ea1ac1abaf68329
+SHA1: f8cf80d0fa9e05e1f3eeb0b7a7da6ab573cc292b
+SHA256: 14201f07c43e97b4216179d1ad3656771a1d1a4c19a385876969af8b44c0f62e
+Description: Cool Package
+ hotfix-cancel-apply-cal-aq1 - e47b23af7ef9118a122e83072f708b4f10ab284c
+ joranbeasley@gmail.com
+ 1.0.386.149
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.55
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.55_all.deb
+Size: 2011706
+MD5sum: 1e07129e6f7305ae185a41bc9d13dddf
+SHA1: d2646a0a7ce52faa37e1079570f3d0246992c2a3
+SHA256: 07db2cd79cae20f57187a6418da8afadf32c1b5fd28f018d9a9722e670bf5700
+Description: Cool Package
+ master - 53142c020f9543bf46e0b96f8cda1ddf7f7d1905
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.55
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.70
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.70_all.deb
+Size: 2011806
+MD5sum: 0006805c917775d92f18fd151cc7a98a
+SHA1: 345ea05a2c7c8d07dbc5fc783ea1a9a662a76642
+SHA256: d5ce296c301a550f1b723bed6fc94beceba877883a1af9b9548c70de49e8cd7b
+Description: Cool Package
+ feature-mesa2-ui - f0fb5403260c0465f9f867b84b0bba7545770cfb
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.70
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.74
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.74_all.deb
+Size: 2012102
+MD5sum: 861255789deb1ef2f93f44d0493af65c
+SHA1: 4eb2f931e2ef60b68b186b9761a9fc1aa66ce404
+SHA256: bfbb75361102644de9ab755eca4659d23868faf177149428c3364a22994bb15d
+Description: Cool Package
+ feature-mesa2-ui - 9b1ded37b47049f79aa57e6d0838fec03299907d
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.74
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.36
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.36_all.deb
+Size: 2007620
+MD5sum: 9a2c68ffc541803e8d563544bcd762d1
+SHA1: b0f5d742ee8fd54bfb11f4a8712c3dd47df7f19c
+SHA256: 5fc7b7e48fc82839badb00d4432b6ba12b35aa7fef4adddd534b49ee971f626e
+Description: Cool Package
+ feature-client_less_communication - bfbbf84cd2d14925c7132b0a5edda0f6e5bfe82d
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.36
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.52
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.52_all.deb
+Size: 2005998
+MD5sum: 221a543f7896f20406a38c6a5ab74948
+SHA1: 8af921d769228fb2a205bf8f663a331a2f0ce152
+SHA256: fa5eaf97111f008a92601a8d5e8911ddab974f20e400ba4289731556a9189457
+Description: Cool Package
+ feature-client_less_communication - 4ae4f40c8af5fe7951c057dcf56376c5f17d057c
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.52
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6936
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.386.147
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.386.147_all.deb
+Size: 1844668
+MD5sum: 6d28ee1f44ccd897b0b95f029fd9be72
+SHA1: e856f587d2e919790ecbfeb57bfefd4ccb94c760
+SHA256: e34494fba88418ab63b4eba2eb81abc636fff8139a46d41b30a1604bf30a9425
+Description: Cool Package
+ hotfix-cancel-apply-cal-aq1 - cf60690c36c74038cb1470002bfe7da2848a92f9
+ joranbeasley@gmail.com
+ 1.0.386.147
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7228
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.51
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.51_all.deb
+Size: 2011914
+MD5sum: 2633d585327a9a7c720fd39dfe82c841
+SHA1: 263c45bb85c167be0a0a4af3bf0fbb70732627aa
+SHA256: e2b31e4c3ce7a2e2a61150d9bf83c9b82e03f00623da7e3b77fb4a95fdf89cb4
+Description: Cool Package
+ feature-ixwerks-screen-cleanup - 28cf7f83b5cf01b8c2e1e4817dba123592cef516
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.51
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7232
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.93
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.93_all.deb
+Size: 2013302
+MD5sum: cbf26e9ab81d5144141b19a132286ac7
+SHA1: 1e478f9a57d986079653c04b638055013392cfd7
+SHA256: a360f12df14025c988499ca4a7fb491afef68d476531c7579a5566279cab30ec
+Description: Cool Package
+ feature-client_less_communication - b501ed7375b13f9a0ab4891007f31a0a698fd5fc
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.93
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 6964
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.17
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.17_all.deb
+Size: 1857144
+MD5sum: 839872b688d3a1f0260e9c720d4bdaf9
+SHA1: 6021c2482cebb80e057da8019d08e85df63d3a60
+SHA256: 192d70b22a783705d669c58c1ee609cfcaa0488cd552ef707ac3fae16a48aff3
+Description: Cool Package
+ master - 2e05448ce07642fb8e85b4ab46f7933bfafbe993
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.17
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.44
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.44_all.deb
+Size: 2006378
+MD5sum: b48ea8ca2c50fa441cfd4ec0e521ceb1
+SHA1: 4bc700154c210faf2c6b699172a4304b23b4ea3c
+SHA256: 058bf22c7e34c7bb359cd8983ae97dd972295634c21a1024eaf82bcc427dffb7
+Description: Cool Package
+ feature-client_less_communication - ee22c6ffa56096e968e35c09a43047801619abe6
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.44
+
+Package: awesomedeb
+Priority: optional
+Section: python
+Installed-Size: 7196
+Maintainer: Joran Beasley <joranbeasley@gmail.com>
+Architecture: all
+Version: 1.0.391.hotfix.32
+Provides: python2.7-awesomedeb
+Depends: python (>= 2.7.1-0ubuntu2)
+Filename: awesomedeb_1.0.391.hotfix.32_all.deb
+Size: 2006302
+MD5sum: a5ff4923ff6af713efcf7df2ae020b11
+SHA1: 9d59deb2c2baf199f9ac62efe2779e58d74f33ba
+SHA256: 03148be15aa268b3d316e65be0d0188ae5deb59b679693b222717dd958c1da65
+Description: Cool Package
+ master - f1d6d2f6f79a4d29a7a752b1bdd8db8b1b688913
+ joranbeasley@gmail.com
+ 1.0.391.hotfix.32
+
