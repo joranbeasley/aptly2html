@@ -1,7 +1,8 @@
 # Aptly2Html
 
 aptly2html aims to provide a simple interface to quickly provide a snapshot singlepage html application that 
-describes the packages available on a given aptly server
+describes the packages available on a given aptly server.  this, of coarse, means you are [using aptly](https://www.aptly.info/) 
+to serve your debian packages.
 
 there are two tools included in the package
 
