@@ -650,7 +650,7 @@ Architecture: all
 Version: 2.5.32.hotfix2.50.gd0c370d
 Provides: python2.7-neato
 Depends: python (>= 2.7.1-0ubuntu2), memcached, apache2, libapache2-mod-wsgi, subversion, rabbitmq-server, openvpn, python-dev, libmemcached-dev, lm-sensors, cifs-utils, ldap-utils, libldap2-dev
-Filename: plantpoint_2.5.32.hotfix2.50.gd0c370d_all.deb
+Filename: neato_2.5.32.hotfix2.50.gd0c370d_all.deb
 Size: 8451364
 MD5sum: 6ffeda937e75a4469688504f6075c476
 SHA1: c70c955acf77132d3dd2348dc53f9ae9ea7212cd
@@ -879,7 +879,7 @@ Architecture: all
 Version: 2.5.32.hotfix2.52.gb5fa6af
 Provides: python2.7-neato
 Depends: python (>= 2.7.1-0ubuntu2), memcached, apache2, libapache2-mod-wsgi, subversion, rabbitmq-server, openvpn, python-dev, libmemcached-dev, lm-sensors, cifs-utils, ldap-utils, libldap2-dev
-Filename: plantpoint_2.5.32.hotfix2.52.gb5fa6af_all.deb
+Filename: neato_2.5.32.hotfix2.52.gb5fa6af_all.deb
 Size: 8451446
 MD5sum: 218b1ebf31619779fec78b859d3f009d
 SHA1: 67abc0bc79255cadeb172d7b8c50e099121a4c85
@@ -957,7 +957,7 @@ Architecture: all
 Version: 2.4.30.18.g96fefd3
 Provides: python2.7-neato
 Depends: python (>= 2.7.1-0ubuntu2), memcached, apache2, libapache2-mod-wsgi, subversion, rabbitmq-server, openvpn, python-dev, libmemcached-dev, lm-sensors, cifs-utils, ldap-utils, libldap2-dev
-Filename: plantpoint_2.4.30.18.g96fefd3_all.deb
+Filename: neato_2.4.30.18.g96fefd3_all.deb
 Size: 8379204
 MD5sum: 2c6804df5a9c67b30e026a02070fc0ac
 SHA1: da7122a3597d9640a76b029e7fc09d01c43b674c
