@@ -16,3 +16,15 @@ you can see an example site
 
 and [you can read about how to build this same site](./example_build) 
 
+
+Installing aptly2html
+---------------------
+   `pip install aptly2html`
+
+Using aptly2html
+----------------
+   * [see the example](./example_build)
+   * `aptly2html -h` will print the help
+   * `json2html -h` see above
+
+

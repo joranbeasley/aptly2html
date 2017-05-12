@@ -13,7 +13,7 @@ I use [`install_directive.md`](./install_directive.md) in my example
 
 we now have everything we need to build our html page
 
-`aptly --infile=example_aptly_show.dat --index=install_directive.md > example_output.html`
+`aptly2html --infile=example_aptly_show.dat --index=install_directive.md > example_output.html`
 
 and we have now generated an example single page application [`example_output_site.html`](./example_output.html)
 
@@ -21,4 +21,4 @@ and we have now generated an example single page application [`example_output_si
 
 of coarse we could have done this with a direct pipe as well
 
-`aptly show package "(Version)" | aptly --stdin --index=install_directive.md > example_output.html`
+`aptly show package "(Version)" | aptly2html --stdin --index=install_directive.md > example_output.html`
