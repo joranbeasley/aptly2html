@@ -1,10 +1,10 @@
-Install SkalaDevRepo
+Install MyAptlyRepo
 ====================
 
 
-  To Install the SkalaDevRepo Run the following command
+  To Install the MyAptlyRepo Run the following command
   
-  `curl -sSL http://my.deb.repo:9999/script.deb.sh | sudo bash`
+  `curl -sSL http://my.aptly.repo/install_repo.deb.sh | sudo bash`
 
 
 this will install the repository to your apt/sources.list and add the gpg key for the server
