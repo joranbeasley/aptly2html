@@ -1,5 +1,3 @@
-
-D:\Dropbox\aptly2html\example_build>python -m aptly2html -f example_aptly_show.dat 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +18,7 @@ D:\Dropbox\aptly2html\example_build>python -m aptly2html -f example_aptly_show.d
         <div class="col s2" style="height: 100%">
         <ul id="nav-mobile" class="side-nav fixed" style="transform: translateX(0%);">
 
-    
+    <li class="bold"><a href="#" v-on:click="current='install'" class="waves-effect waves-teal">Installing The Repo</a></li>
     <li class="no-padding">
      <strong class="collapsible-header  waves-effect">Packages</strong>
 
@@ -35,7 +33,23 @@ D:\Dropbox\aptly2html\example_build>python -m aptly2html -f example_aptly_show.d
         </div>
         <div class="container col s9" id="main-content">
         
-            <div class="container" >
+            <div class="container" v-if="current=='install'">
+                <h1>Install SkalaDevRepo</h1>
+<p>To Install the SkalaDevRepo Run the following command</p>
+<p><code>curl -sSL http://my.deb.repo:9999/script.deb.sh | sudo bash</code></p>
+<p>this will install the repository to your apt/sources.list and add the gpg key for the server</p>
+<hr />
+<p><strong>Install a Package</strong></p>
+<p>in order to install a package run</p>
+<p><code>sudo apt-get install -o Dpkg::Options::="--force-overwrite" &lt;packagename&gt;[=&lt;version&gt;]</code></p>
+<p>e.g. <code>sudo apt-get install -o Dpkg::Options::="--force-overwrite" awesomedeb=1.0.391.84.gab65e</code></p>
+<hr />
+<p><strong>List Available Versions</strong></p>
+<p>in order to list the available versions of a package run</p>
+<p><code>apt-cache madison &lt;packagename&gt;</code></p>
+<p>e.g.<code>apt-cache madison awesomedeb</code></p>
+            </div>
+            <div class="container" v-else>
                 <table class="bordered striped">
                     <tbody>
                     <template v-for="pkg in current_package()">
@@ -44,13 +58,13 @@ D:\Dropbox\aptly2html\example_build>python -m aptly2html -f example_aptly_show.d
                             <div class="col s8">[[ pkg.Filename ]]</div>
                             <div class="col s4">[[ pkg.Version ]] </div>
                             <div class="col s12"><pre style="background-color: cornsilk;border: thin solid black">[[ pkg.Description ]]</pre>
-                            INSTALL: <i>apt-get install [[ pkg.Package ]]=[[pkg.Version.trim() ]]</i></div>
+                            INSTALL: <i>apt-get install [[ pkg.Package ]]=[[ pkg.Version ]]</i></div></div>
                         </div></td></tr>
                     </template>
                     </tbody>
 
                 </table>
-        </div>
+            </div>
         
     </div>
     <script>
@@ -66,11 +80,6 @@ D:\Dropbox\aptly2html\example_build>python -m aptly2html -f example_aptly_show.d
             },
 
         },
-    
-       created: function () {
-        // `this` points to the vm instance
-        this.current=this.packages()[0]
-      },
     
       data: {
         current:"install",
